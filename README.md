@@ -1,7 +1,7 @@
 [![](https://visitcount.itsvg.in/api?id=myatminag&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working as frontend developer.<br>👯 I’m looking to collaborate on ambitious projects.<br>🌱 I’m currently learning micro-frontend & nodejs.<br>💬 Ask me about mern-stack
+🔭 I’m currently working as frontend developer.<br>👯 I’m looking to collaborate on ambitious projects.<br>🌱 I’m currently learning micro-frontend & nodejs.<br>💬 Ask me about mern-stack.
 
 
 ## 🌐 Socials:
